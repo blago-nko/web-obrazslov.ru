@@ -1,5 +1,12 @@
 baseURL = "https://obrazslov.ru/"
-title = "Образ слов"
 languageCode = "ru-ru"
+title = "Образ слов"
+
 [params]
-description = "Сайт главного проекта НКО"
+  description = "Образ слов"
+  author = "НП «Общественное благополучие Воронежа»"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
