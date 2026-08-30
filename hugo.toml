@@ -1,0 +1,5 @@
+baseURL = "https://blago-nko.github.io/web-obrazslov.ru/"
+title = "Образ слов"
+languageCode = "ru-ru"
+[params]
+description = "Сайт главного проекта НКО"
