@@ -1,4 +1,4 @@
-baseURL = "https://blago-nko.github.io/web-obrazslov.ru/"
+baseURL = "https://obrazslov.ru/"
 title = "Образ слов"
 languageCode = "ru-ru"
 [params]
