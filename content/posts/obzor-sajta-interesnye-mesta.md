@@ -4,6 +4,7 @@ description: "[![Интересные места](https://blogger.googleusercont
 aliases:
   - "/2025/07/obzor-sajta-interesnye-mesta.html"
 url: "/obzor-sajta-interesnye-mesta/"
+date: 2025-07-01T00:00:00Z
 ---
 
 [![Интересные места](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbjjpe-dUufgb8FsNmO4AkrLvDClyowGdZmPE0P7FFZ0vvnpsSIsp9smR88WC3XDvrmUsoZW30DKyPoap7bjIO9JN-kDpeg1uf-jVFkOR-ltTrRnYGDkcD4lWsHlwb1mxN81VcuYEpcsNqgq0GVGH_BNUU21GquvFY1Nypaf9ua-m-msRY2aoN9Mc2PA/w640-h480-rw/IMG_20240627_124227.jpg "Интересные места")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbjjpe-dUufgb8FsNmO4AkrLvDClyowGdZmPE0P7FFZ0vvnpsSIsp9smR88WC3XDvrmUsoZW30DKyPoap7bjIO9JN-kDpeg1uf-jVFkOR-ltTrRnYGDkcD4lWsHlwb1mxN81VcuYEpcsNqgq0GVGH_BNUU21GquvFY1Nypaf9ua-m-msRY2aoN9Mc2PA/s3280/IMG_20240627_124227.jpg)
