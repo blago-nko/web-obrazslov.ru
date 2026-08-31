@@ -1,6 +1,6 @@
 ---
 title: "Обзор сайта Интересные места"
-description: "[![Интересные места](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbjjpe-dUufgb8FsNmO4AkrLvDClyowGdZmPE0P7FFZ0vvnpsSIsp9smR88WC3XDvrmUsoZW30DKyPo"
+
 aliases:
   - "/2025/07/obzor-sajta-interesnye-mesta.html"
 url: "/obzor-sajta-interesnye-mesta/"

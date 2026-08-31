@@ -1,6 +1,6 @@
 ---
 title: "Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)"
-description: "| | | --- | | [КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfYHFuDNnXTeriCGCPzBB28KrAy3g7l"
+
 aliases:
   - "/2024/07/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age.html"
 url: "/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age/"
