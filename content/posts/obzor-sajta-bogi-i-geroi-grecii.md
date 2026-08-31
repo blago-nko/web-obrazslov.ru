@@ -5,7 +5,29 @@ aliases:
 url: "/obzor-sajta-bogi-i-geroi-grecii/"
 date: 2024-08-01T00:00:00Z
 ---
+[]()
+
+### 
+
+Обзор сайта Боги и герои Греции
+
+Автор:
+
+[
+
+Александр Бобров
+
+](https://www.blogger.com/profile/03771662766477114754)
+
+[
+
+августа 04, 2024
+
+](https://www.obrazslov.ru/2024/08/obzor-sajta-bogi-i-geroi-grecii.html)
+
 <figure><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktKKMvbQMsGLHwI73ICeLqrriBZqtRfqzxsMCAONeCi1yTkjyCdSjpHX5hyphenhyphenSPlVVPTqb2aquJLoT9K7zukB-Vjnr3H_5JncxKMzg5jKXOl9sb5L-Aw8/w640-h252-rw/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.jpg" alt="Пантеон" title="Пантеон"><figcaption>Пантеон</figcaption></figure>
+
+<img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmBj08cBNgmKJhqrJ9ux-UwNiJ5Wa135coebIBIXx43k0UX2sa-IzBRIFyDPk2MwWYZ4Rw7ua89eDyetS0j-P4C8JlMqYcjB1GdpV-_hCKGJFGRMLj_jxxOE9R3FaTA/s113/image-2019-12-15+12_13_49.jpg" alt="Изображение" title="Изображение">
 
 [Сайт](https://grekpanteon.obrazslov.ru) представляет собой уникальный [пантеон](https://grekpanteon.obrazslov.ru/2017/08/panteon.html) древнегреческих богов, героев, титанов и других мифологических существ, где они представлены в виде генеалогического древа. Родители указаны с меньшими номерами колена, а дети — с большими номерами.
 

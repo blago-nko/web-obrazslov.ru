@@ -5,6 +5,28 @@ aliases:
 url: "/obzor-sajta-interesnye-mesta/"
 date: 2025-07-01T00:00:00Z
 ---
+[]()
+
+### 
+
+Обзор сайта Интересные места
+
+Автор:
+
+[
+
+Александр Бобров
+
+](https://www.blogger.com/profile/03771662766477114754)
+
+[
+
+июля 01, 2025
+
+](https://www.obrazslov.ru/2025/07/obzor-sajta-interesnye-mesta.html)
+
+<img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmBj08cBNgmKJhqrJ9ux-UwNiJ5Wa135coebIBIXx43k0UX2sa-IzBRIFyDPk2MwWYZ4Rw7ua89eDyetS0j-P4C8JlMqYcjB1GdpV-_hCKGJFGRMLj_jxxOE9R3FaTA/s113/image-2019-12-15+12_13_49.jpg" alt="Изображение" title="Изображение">
+
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbjjpe-dUufgb8FsNmO4AkrLvDClyowGdZmPE0P7FFZ0vvnpsSIsp9smR88WC3XDvrmUsoZW30DKyPoap7bjIO9JN-kDpeg1uf-jVFkOR-ltTrRnYGDkcD4lWsHlwb1mxN81VcuYEpcsNqgq0GVGH_BNUU21GquvFY1Nypaf9ua-m-msRY2aoN9Mc2PA/w640-h480-rw/IMG_20240627_124227.jpg" alt="Интересные места" title="Интересные места">
 
 [Сайт «Интересные места»](https://interesnye-mesta.obrazslov.ru/) представляет собой информационный ресурс, посвященный достопримечательностям и интересным локациям. Ресурс является частью системы некоммерческих проектов [Общественное благополучие](https://www.blagorussia.ru/).
