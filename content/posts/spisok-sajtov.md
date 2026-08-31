@@ -1,6 +1,6 @@
 ---
 title: "Список сайтов"
-description: "[![Список сайтов домена](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4RAmMSnLjaD_wz0YAUgjLhIoE8BF0csrXynGjjTSBorYlX0C-xPCveaHm9C47oMC3XZ4gv3wm4P"
+
 aliases:
   - "/2019/06/spisok-sajtov.html"
 url: "/spisok-sajtov/"

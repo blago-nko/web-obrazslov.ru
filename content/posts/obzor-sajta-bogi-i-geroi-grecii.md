@@ -1,6 +1,6 @@
 ---
 title: "Обзор сайта Боги и герои Греции"
-description: "| | | --- | | [Пантеон](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMv-oJbWcTXgq8M_vUWknvJvXogUnVtTxMfNegP-3xO1KrKJU2ec0thxjxBrIcNEUxyUlne-YktK"
+
 aliases:
   - "/2024/08/obzor-sajta-bogi-i-geroi-grecii.html"
 url: "/obzor-sajta-bogi-i-geroi-grecii/"
