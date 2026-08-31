@@ -5,7 +5,29 @@ aliases:
 url: "/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age/"
 date: 2024-07-01T00:00:00Z
 ---
+[]()
+
+### 
+
+Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)
+
+Автор:
+
+[
+
+Александр Бобров
+
+](https://www.blogger.com/profile/03771662766477114754)
+
+[
+
+июля 28, 2024
+
+](https://www.obrazslov.ru/2024/07/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age.html)
+
 <figure><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfYHFuDNnXTeriCGCPzBB28KrAy3g7ljyyhSkQMTgOH3jPNnldcF7GmVNvF6sLOu6kZWYG16hKsJfOQ9-xPTo_gZ6clJHgg68z20_Kf0X2eC9Wo7h_r789MN7rLrS59hRzN1u-Yjh7oZv9LZ-QdLQUbnI27V37NEpdsEcxo6cdwb5CCrYNQiY73aU05aU/w640-h436-rw/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%20%D0%A1%D0%B0%D0%B9%D1%82%D0%B0%20%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.jpg" alt="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)" title="КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)"><figcaption>КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)</figcaption></figure>
+
+<img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmBj08cBNgmKJhqrJ9ux-UwNiJ5Wa135coebIBIXx43k0UX2sa-IzBRIFyDPk2MwWYZ4Rw7ua89eDyetS0j-P4C8JlMqYcjB1GdpV-_hCKGJFGRMLj_jxxOE9R3FaTA/s113/image-2019-12-15+12_13_49.jpg" alt="Изображение" title="Изображение">
 
 Сайт [КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ](https://culture.obrazslov.ru/) (Culture of the Upcoming Аge) посвящен формированию Культуры грядущей Эпохи, соответствующей требованиям Нового Века Водолея.
 
