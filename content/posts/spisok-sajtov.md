@@ -1,6 +1,5 @@
 ---
 title: "Список сайтов"
-
 aliases:
   - "/2019/06/spisok-sajtov.html"
 url: "/spisok-sajtov/"

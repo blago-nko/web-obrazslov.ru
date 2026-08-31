@@ -1,6 +1,5 @@
 ---
 title: "Обзор сайта Боги и герои Греции"
-
 aliases:
   - "/2024/08/obzor-sajta-bogi-i-geroi-grecii.html"
 url: "/obzor-sajta-bogi-i-geroi-grecii/"
