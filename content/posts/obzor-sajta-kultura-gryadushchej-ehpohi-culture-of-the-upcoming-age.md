@@ -4,6 +4,7 @@ description: "| | | --- | | [КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Cultu
 aliases:
   - "/2024/07/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age.html"
 url: "/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age/"
+date: 2024-07-01T00:00:00Z
 ---
 
 |  |
