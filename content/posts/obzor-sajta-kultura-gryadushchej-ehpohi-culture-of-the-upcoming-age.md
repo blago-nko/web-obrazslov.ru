@@ -1,5 +1,5 @@
 ---
-title: 'Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)'
+title: '''Обзор сайта КУЛЬТУРА ГРЯДУЩЕЙ ЭПОХИ (Culture of the Upcoming Аge)'''
 aliases:
   - "/2024/07/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age.html"
 url: "/obzor-sajta-kultura-gryadushchej-ehpohi-culture-of-the-upcoming-age/"
