@@ -1,5 +1,5 @@
 ---
-title: '''Обзор сайта Интересные места'''
+title: "'Обзор сайта Интересные места'"
 aliases:
   - "/2025/07/obzor-sajta-interesnye-mesta.html"
 url: "/obzor-sajta-interesnye-mesta/"
